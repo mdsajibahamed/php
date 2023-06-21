@@ -1,12 +1,7 @@
 <?php
-namespace App;
+
+namespace Rejoan;
+
 function area($a){
   echo "$a";
 }
-// area("Dhanmondhi");
-// second function 
-function sum ($a){
-    echo  "$a";
-
-}
-sum ("30");
