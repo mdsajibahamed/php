@@ -2,8 +2,6 @@
 
 require "./import.php";
 require "./main.php";
- 
-
   
 function area($a,$b,$c ){
   echo "$a  $b $c";
